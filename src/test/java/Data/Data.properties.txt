@@ -1,0 +1,4 @@
+"Url" = "https://www.flipkart.com/"; 
+"UserName" = 
+"Password" =
+"Browser" = "Chrome";
