@@ -14,6 +14,7 @@ public class setAllWaits {
 	private WebDriver driver;
 
 	public setAllWaits() {
+		
 		driver = new ChromeDriver();
 	}
 
